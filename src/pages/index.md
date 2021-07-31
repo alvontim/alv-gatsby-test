@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Affordable Marketing Platform for SMEs
+    title: ALV Marketing
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try it Now
