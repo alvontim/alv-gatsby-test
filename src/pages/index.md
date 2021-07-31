@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Test Gatsby
+    title: Affordable Marketing Platform for SMEs
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
