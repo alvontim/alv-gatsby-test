@@ -215,5 +215,6 @@ seo:
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
+  description: Affordable Marketing Platform for SMEs
 template: advanced
 ---
