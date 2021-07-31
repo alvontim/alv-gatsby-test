@@ -191,7 +191,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: ALV Marketing
+  title: ALV Marketing - Affordable Marketing Platform for SMEs
   extra:
     - name: 'og:type'
       value: website
