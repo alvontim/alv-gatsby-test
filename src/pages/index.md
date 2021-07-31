@@ -5,7 +5,7 @@ sections:
     title: Affordable Marketing Platform for SMEs
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Try it Now
         url: /pricing
         style: primary
     image: images/hero.svg
