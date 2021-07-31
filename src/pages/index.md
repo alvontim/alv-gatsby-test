@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: ALV Marketing
-  description: The preview of the Startup theme
+  description: Affordable Marketing Platform for SMEs
   extra:
     - name: 'og:type'
       value: website
